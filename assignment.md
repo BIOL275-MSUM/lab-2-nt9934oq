@@ -65,7 +65,7 @@ sem <- sd(x) / sqrt(n) # standard error of the mean
 ```
 
 And finally, I can see the 95% confidence interval ranges from a minimum
-of \_\_\_ to a maximum of \_\_\_
+of 4.203 to a maximum of 5.431
 
 ``` r
 mean(x) + 1.96 * sem                             # upper limit
